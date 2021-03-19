@@ -1,0 +1,46 @@
+/* CSS Document */
+.left {
+	background: url(imgs/left.png) repeat-y  left bottom;
+}
+.right {
+	background: url(imgs/right.png) repeat-y  left bottom;
+}
+BODY {
+	margin-top: 0;
+	background-repeat: repeat;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 5px;
+	margin-bottom: 0;
+}
+.cnt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	padding: 5px 20px 0px;
+}
+Table .exp {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+}
+TD .padding {
+	padding: 0px 20px;
+}
+.head1 {
+	font-size: 18px;
+	font-weight: bold;
+	padding: 5px 0px;
+}
+.head2 {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 5px 0px;
+}
+.head3 {
+	font-size: 12px;
+	font-weight: bold;
+}
+A {
+	text-decoration: none;
+	color: #0000FF;
+}
