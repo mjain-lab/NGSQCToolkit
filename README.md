@@ -1,5 +1,6 @@
 # NGSQCToolkit version 2.3
 NGS QC Toolkit: a toolkit for quality check and filtering of next generation sequencing data of Roche and Illumina technology 
+
 Developed at NIPGR, New Delhi and originally hosted at (http://www.nipgr.res.in/ngsqctoolkit.html)
 
 
